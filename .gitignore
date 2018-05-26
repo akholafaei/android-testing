@@ -1,6 +1,19 @@
+<<<<<<< HEAD
 .gradle
 local.properties
 .idea
 .DS_Store
 build
 *.iml
+=======
+.idea
+*.iml
+local.properties
+build
+.gradle
+# Eclipse project files
+.project
+.settings/	
+.classpath
+bazel-*
+>>>>>>> 900c54f539b45ae3bc910030a18ef2358b6ccab4
